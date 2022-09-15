@@ -13,6 +13,8 @@ export default function Home() {
         style={{ maxWidth: "700px" }}
         className="mx-auto bg-white p-3 rounded rounded-3 shadow-sm"
       >
+        <PostOwner imgUrl="profileImages/leto.webp" />
+
         {/* PostOwner Example*/}
         <div className="vstack gap-3">
           <div className="d-flex align-items-center gap-3">
