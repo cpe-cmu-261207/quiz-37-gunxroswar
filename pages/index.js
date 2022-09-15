@@ -16,7 +16,7 @@ export default function Home() {
         <PostOwner imgUrl="profileImages/leto.webp" />
 
         {/* PostOwner Example*/}
-        <div className="vstack gap-3">
+        {/* <div className="vstack gap-3">
           <div className="d-flex align-items-center gap-3">
             <img
               src="/profileImages/handsome.jpg"
@@ -36,7 +36,7 @@ export default function Home() {
         </div>
 
         {/* Comment Example */}
-        <div className="d-flex gap-2 my-2">
+        {/* <div className="d-flex gap-2 my-2">
           <img
             src="/profileImages/lisa.jpg"
             width="48"
@@ -56,10 +56,10 @@ export default function Home() {
               <span className="text-muted">999 คน</span>
             </div>
           </div>
-        </div>
+        </div> */}
 
         {/* Reply Example */}
-        <div className="d-flex gap-2 my-2 ps-5">
+        {/* <div className="d-flex gap-2 my-2 ps-5">
           <img
             src="/profileImages/puppy.jpg"
             width="48"
@@ -75,7 +75,7 @@ export default function Home() {
             <br />
             <span>จริงค้าบบบบบบบบ</span>
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   );
